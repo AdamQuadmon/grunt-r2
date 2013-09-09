@@ -1,0 +1,31 @@
+p.borders {border-left:1px;}
+
+p.borders_color {border-color:#000 #111 #222 #333;}
+
+p.border_color_left {border-left-color:#fff;}
+
+p.border_color_right {border-right-color:#fff;}
+
+p.borders_width {border-width:0 1px 2px 3px;}
+
+p.paddings {padding:0 1px 2px 3px;}
+
+p.padding_left {padding-left:0;}
+
+p.padding_right {padding-right:0;}
+
+p.margin {margin:0 1px 2px 3px;}
+
+p.margin_left {margin-left:0;}
+
+p.margin_right {margin-right:0;}
+
+p.float_right {float:right;}
+
+p.float_left {float:left;}
+
+p.text_align_right {text-align:right;}
+
+p.text_align_left {text-align:left;}
+
+p.background_position {background-position:20% top;}
