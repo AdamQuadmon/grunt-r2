@@ -1,3 +1,5 @@
+[![NPM version](https://badge.fury.io/js/grunt-r2.png)](http://badge.fury.io/js/grunt-r2)
+
 # grunt-r2
 
 > Grunt task for LTR to RTL CSS conversion using [R2](https://github.com/ded/R2).
