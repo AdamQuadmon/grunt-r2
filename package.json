@@ -1,7 +1,7 @@
 {
   "name": "grunt-r2",
   "description": "Grunt task for LTR to RTL CSS conversion using R2.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/adamquadmon/grunt-r2",
   "author": {
     "name": "Luciano Amodio",
